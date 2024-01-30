@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AVBAJK6h2ExAuf90CVMUft4m0A+lfLJVFRASQaacSRjpHpFdWO00kv9iw2/4eSl0Sq7nt3yeevC4pMfRs72MTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAMSUNG\\source\\repos\\basics\\SelamWebAPI\\SelamWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAMSUNG\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SAMSUNG\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\SAMSUNG\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\SAMSUNG\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

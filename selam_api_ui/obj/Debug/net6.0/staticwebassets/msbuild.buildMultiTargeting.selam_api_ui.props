@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\selam_api_ui.props" />
+</Project>
